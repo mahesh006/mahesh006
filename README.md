@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @mahesh006
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+## 👋  &nbsp; Hey there, I'm Mahesh Vasamsetti
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+### I'm a Junior, Web Developer and a Learning Enthusiast.
+
+
+- 👀 I’m interested in Web Development
+- 🌱 I’m learning in-depth about Web Development and Competitive Programming..
+- 💞️ I’m looking forward to collaborate with other developers and learn from them.
 - 📫 How to reach me ...
 
 <!---
