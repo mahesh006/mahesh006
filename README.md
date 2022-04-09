@@ -12,3 +12,5 @@
 mahesh006/mahesh006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[linkedin]: https://www.linkedin.com/in/mahesh-vasamsetti-3623431ab
